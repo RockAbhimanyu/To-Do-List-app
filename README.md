@@ -24,6 +24,7 @@ The app's backend features a dynamic routing system where each endpoint is respo
 I implemented error handling to manage invalid input or failed database operations, ensuring that users receive appropriate feedback. I also explored basic data validation to make sure only correct and valid data is accepted.
 
 =>Technologies Used:
+
 Frontend: EJS (Embedded JavaScript Templates) for rendering dynamic HTML pages.
 
 Backend: Node.js and Express.js for creating the server and managing API routes

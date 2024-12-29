@@ -25,4 +25,5 @@ I implemented error handling to manage invalid input or failed database operatio
 
 =>Technologies Used:
 Frontend: EJS (Embedded JavaScript Templates) for rendering dynamic HTML pages.
+
 Backend: Node.js and Express.js for creating the server and managing API routes
